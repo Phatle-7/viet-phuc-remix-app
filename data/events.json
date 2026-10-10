@@ -1,0 +1,387 @@
+[
+  {
+    "id": "le-tet",
+    "name": "Lễ Tết (Nguyên Đán)",
+    "description": "Dịp Tết Nguyên Đán - năm mới âm lịch, dịp lễ quan trọng nhất trong năm của người Việt",
+    "emoji": "🧧",
+    "weather": ["mát", "ấm"],
+    "formality": "trang-trọng",
+    "season": "mùa-xuân",
+    "vibe": "truyền-thống,sum-hop,rộn-ràng",
+    "context": "Tết Nguyên Đán là TẾT CỔ TRUYỀN quan trọng nhất trong năm. Diễn ra từ 23 tháng Chạp (đưa ông Công ông Táo) đến mồng 7 tháng Giêng. Có nhiều hoạt động trải dài:\n\n• Dọn dẹp, trang trí nhà cửa (bày mâm ngũ quả, câu đối đỏ, hoa Tết)\n• Cúng ông Công ông Táo (23 tháng Chạp âm)\n• Gói bánh chưng, bánh tét (gia đình sum họp)\n• Đêm giao thừa (đánh lửa, xem pháo hoa, lễ chùa đầu năm)\n• Mồng 1, 2, 3: chúc Tết họ hàng, xin chữ đầu xuân\n• Mồng 4-7: lễ chùa, du xuân, hội chợ\n\nKhông khí: rộn ràng, đỏ-vàng rực rỡ, sum họp gia đình. Khách đến nhà chúc Tết là khách quý - cần ăn mặc trang trọng để tiếp đãi.",
+    "requirements": [
+      "Màu sắc rực rỡ: đỏ, vàng, hồng, cam - tượng trưng may mắn",
+      "Chất liệu lụa, gấm cao cấp",
+      "Hoa văn truyền thống: hoa mai (miền Nam), hoa đào (miền Bắc), phượng, cúc",
+      "Hoa tai vàng ta hoặc ngọc trai",
+      "Trang phục thoải mái để di chuyển nhiều (chúc Tết, đi chùa, du xuân)"
+    ],
+    "layout": "Tết có nhiều hoạt động trải dài nhiều ngày, nhiều địa điểm:\n• Ở nhà: gói bánh, nấu cỗ, đón khách - cần thoải mái\n• Lễ chùa: cần kín đáo, màu nhẹ nhàng (cũng có lúc mặc đỏ đầu năm cầu may)\n• Du xuân: cần đi bộ nhiều, chụp ảnh nhiều\n• Chúc Tết họ hàng: cần lịch sự, trang trọng\n\nNên chuẩn bị 3-4 bộ trang phục khác nhau cho cả dịp Tết.",
+    "recommendedColors": ["đỏ", "vàng", "đỏ-đô", "vàng-đồng", "hồng-phấn", "cam-đất"],
+    "colorReasoning": "Màu đỏ tượng trưng may mắn, vàng tượng trưng phú quý theo quan niệm Á Đông. Tết là dịp diện những gam màu rực rỡ nhất. Có thể phối đỏ+vàng cho ấn tượng, hoặc hồng phấn cho nữ tính.",
+    "outfitPriority": ["ao-dai", "ao-gam", "ao-tu-than", "ao-nhat-binh"],
+    "outfitNotes": "Áo dài đỏ/vàng/hồng là lựa chọn phổ biến nhất cho Tết. Áo dài có thêu hoa mai, hoa đào, hoa phượng cực kỳ hợp. Nam giới có thể mặc áo gấm, áo the.",
+    "compatibleStyles": ["co-dien", "truyen-thong", "nu-tinh", "vintage-sai-gon"],
+    "taboos": ["quần-jean", "giày-thể-thao-quá-cũ", "màu-đen-toàn-thân", "áo-quá-ngắn", "trang-phục-rách"],
+    "tips": [
+      "Nên chọn chất liệu lụa, gấm cho Tết để tạo vẻ sang trọng",
+      "Hoa tai vàng hoặc ngọc trai là phụ kiện phù hợp",
+      "Chuẩn bị ít nhất 2-3 bộ áo dài cho các ngày Tết (mồng 1, mồng 2, mồng 3 thường đổi màu)",
+      "Có thể mặc áo dài đỏ ngày mồng 1 (cầu may), áo dài vàng ngày mồng 2 (cầu phú)",
+      "Trẻ em mặc áo dài đỏ có thêu con giáp của năm rất ý nghĩa"
+    ],
+    "realExamples": [
+      "Áo dài đỏ thêu hoa mai cho nữ",
+      "Áo dài vàng gấm cho nữ trung niên",
+      "Áo tứ thân nâu trầm cho dịp lễ chùa đầu năm",
+      "Áo gấm đỏ thêu rồng cho nam",
+      "Áo dài cách tân hồng phấn cho Gen Z"
+    ],
+    "duration": "3-7 ngày (tùy gia đình)",
+    "locations": ["nhà riêng", "nhà họ hàng", "đền chùa", "đường hoa Nguyễn Huệ (Sài Gòn)", "Hồ Gươm (Hà Nội)"]
+  },
+  {
+    "id": "di-den-chua",
+    "name": "Đi đền/chùa",
+    "description": "Viếng đền chùa, lễ Phật, lễ hội đầu năm - nơi tâm linh, cần trang phục kín đáo, trang trọng",
+    "emoji": "🏯",
+    "weather": ["mát", "ấm", "nắng-nhẹ"],
+    "formality": "trang-trọng",
+    "season": "quanh-năm",
+    "vibe": "thanh-tịnh,tôn-nghiêm,nhẹ-nhàng",
+    "context": "Đền chùa là nơi thờ cúng Phật, Thánh, tổ tiên. Có 2 loại:\n\n• Chùa Phật giáo (phổ biến): lễ Phật, lễ Vu Lan, lễ Phật đản, đầu năm\n• Đền thờ Thánh (Đền Trần, Đền Hùng, Đền Đô...): lễ hội đầu xuân, giỗ Tổ\n\nBối cảnh: yên tĩnh, khói nhang, chuông, mõ. Khi vào chùa cần:\n• Không nói to, cười đùa\n• Không chụp ảnh trong chánh điện (một số nơi)\n• Cúng lễ theo phong tục (hương, hoa, quả)\n• Đi nhẹ, nói khẽ",
+    "requirements": [
+      "Trang phục kín đáo: che vai, che gối, không xuyên thấu",
+      "Màu sắc nhẹ nhàng, trang nhã (trắng, kem, nâu, xanh nhạt, tím nhạt)",
+      "Giày kín gót, thấp (không cao gót quá 5cm)",
+      "Tóc gọn gàng, không quá rối",
+      "Không nước hoa nồng nặc",
+      "Không đeo trang sức quá phô trương"
+    ],
+    "layout": "Đi bộ nhiều, lạy nhiều, đứng lâu. Cần trang phục dễ di chuyển, vạt áo dài không vướng víu.",
+    "recommendedColors": ["trắng", "kem", "nâu-nhạt", "xanh-ngọc-nhạt", "tím-nhạt"],
+    "colorReasoning": "Màu nhạt, nhẹ nhàng thể hiện sự tôn kính. Tránh màu quá rực rỡ, quá chói hoặc đen tuyền. Có thể mặc áo dài đỏ đầu năm (cầu may) nhưng phải lịch sự.",
+    "outfitPriority": ["ao-dai", "ao-tu-than"],
+    "outfitNotes": "Phải kín đáo: không hở vai, không ngắn quá đầu gối, không xuyên thấu. Vạt áo dài phải dài qua đầu gối. Tránh áo dài mini.",
+    "compatibleStyles": ["co-dien", "thanh-lich", "vintage-ha-noi"],
+    "taboos": ["áo-hở-vai", "váy-quá-ngắn", "quần-jean-rách", "giày-cao-gót-quá-cao", "màu-đen-toàn-thân", "áo-dai-mini", "trang-phuc-dân-tộc-quá-rực-rỡ"],
+    "tips": [
+      "Nên chọn áo dài cổ cao tay dài hoặc áo tứ thân truyền thống",
+      "Mang guốc hoặc giày bệt thấp",
+      "Tóc búi hoặc buộc gọn gàng",
+      "Mang theo khăn lụa nhỏ để phủ khi lạy",
+      "Không xách túi lớn vào chánh điện"
+    ],
+    "realExamples": [
+      "Áo dài trắng/kem đi lễ chùa đầu năm",
+      "Áo tứ thân nâu trầm đi chùa Hà Nội",
+      "Áo dài tím nhạt đi lễ Vu Lan",
+      "Áo dài đỏ đầu năm (cầu may, vẫn được chấp nhận)",
+      "Yếm + áo tứ thân trắng + quần lụa đen"
+    ],
+    "duration": "1-4 giờ (tùy dịp)",
+    "locations": ["Chùa Bái Đính (Ninh Bình)", "Chùa Trấn Quốc (Hà Nội)", "Chùa Thiên Mụ (Huế)", "Đền Trần (Nam Định)", "Đền Hùng (Phú Thọ)"]
+  },
+  {
+    "id": "dam-cuoi",
+    "name": "Đám cưới / Lễ ăn hỏi",
+    "description": "Đám cưới, lễ ăn hỏi - sự kiện trọng đại, trang phục cần lộng lẫy nhưng không lấn át cô dâu/chú rể",
+    "emoji": "💒",
+    "weather": ["tất-cả-mùa"],
+    "formality": "rất-trang-trọng",
+    "season": "quanh-năm",
+    "vibe": "lộng-lẫy,sang-trọng,hân-hoan",
+    "context": "Đám cưới Việt Nam có 2 phần chính:\n\n1. LỄ ĂN HỎI (trước ngày cưới 1-2 tuần, tổ chức tại nhà gái)\n2. TIỆC CƯỚI (ngày cưới chính)\n\nKhách mời CẦN lộng lẫy nhưng KHÔNG lấn át cô dâu. Cô dâu mặc trắng/đỏ - khách TRÁNH mặc trắng toàn thân.",
+    "requirements": [
+      "Trang phục lộng lẫy, trang trọng cao",
+      "KHÔNG mặc trắng toàn thân (cô dâu mới mặc)",
+      "KHÔNG mặc đen toàn thân (tang)",
+      "Màu nóng: đỏ, hồng, vàng, tím - tượng trưng hạnh phúc",
+      "Có thể đính kim tuyến, hạt cườm, thêu hoa nổi"
+    ],
+    "layout": "Tiệc ngồi nhiều giờ - áo dài hoặc áo nhật bình (cổ trang) rất phù hợp.",
+    "recommendedColors": ["đỏ", "hồng-phấn", "đỏ-đô", "vàng-nhạt", "tím-nhạt", "xanh-cobalt"],
+    "colorReasoning": "Màu nóng, tươi vui thể hiện không khí hân hoan. Đỏ và hồng là màu may mắn cho hôn nhân. Màu tím thể hiện sự sang trọng.",
+    "outfitPriority": ["ao-dai", "ao-nhat-binh", "ao-tac"],
+    "outfitNotes": "Có thể đính kim tuyến, hạt cườm, thêu hoa nổi. Độ dài vạt áo dài phải trang trọng (qua đầu gối).",
+    "compatibleStyles": ["co-dien", "sang-trọng", "nu-tinh", "vintage-sai-gon", "co-trang-hue-modern"],
+    "taboos": ["màu-trắng-toàn-thân", "màu-đen-toàn-thân", "quần-jean", "áo-quá-hở", "áo-dai-mini", "giay-the-thao"],
+    "tips": [
+      "TRÁNH mặc trắng toàn thân (cô dâu mới mặc)",
+      "Nên đeo hoa tai ngọc trai hoặc vàng",
+      "Hoa cài tóc nhỏ tạo điểm nhấn",
+      "Có thể mặc áo nhật bình (cổ trang Huế) nếu đám cưới truyền thống",
+      "Giày cao gót 5-7cm là vừa đẹp vừa thoải mái"
+    ],
+    "realExamples": [
+      "Áo dài đỏ đính kim tuyến",
+      "Áo dài hồng phấn ren",
+      "Áo dài cách tân ren hoa",
+      "Áo nhật bình (cổ trang) cho đám cưới truyền thống Huế"
+    ],
+    "duration": "3-6 giờ (lễ + tiệc)",
+    "locations": ["Nhà hàng tiệc cưới", "Khách sạn 5 sao", "Đình làng (truyền thống)", "Nhà thờ họ", "Resort"]
+  },
+  {
+    "id": "ky-yeu",
+    "name": "Kỷ yếu / Chụp ảnh tốt nghiệp",
+    "description": "Chụp ảnh kỷ yếu cuối cấp 3 hoặc tốt nghiệp đại học - khoảnh khắc lưu giữ thanh xuân",
+    "emoji": "🎓",
+    "weather": ["nắng", "mát"],
+    "formality": "vừa-phải",
+    "season": "mùa-hè",
+    "vibe": "trong-sáng,thanh-xuân,lung-linh",
+    "context": "Kỷ yếu là bộ ảnh kỷ niệm cuối năm học. Thường chụp theo nhóm (10-20 bạn) với concept đã chuẩn bị trước tại trường học, phố cổ, văn miếu hoặc studio.",
+    "requirements": [
+      "Áo dài trắng là kinh điển cho kỷ yếu",
+      "Có thể phối cùng nhóm với các tông pastel khác nhau (xanh nhạt, hồng, kem, lavender)",
+      "Hoa cài tóc nhỏ - hoa cúc họa mi rất hợp",
+      "Trang sức tối giản (không quá rườm rà)",
+      "Mang theo hoa tươi cầm tay"
+    ],
+    "layout": "Chụp ảnh nhiều - cần trang phục lên ảnh đẹp, dễ tạo dáng.",
+    "recommendedColors": ["trắng", "xanh-nhạt", "hồng-phấn", "kem", "xanh-lavender", "vàng-nhạt"],
+    "colorReasoning": "Tông pastel nhẹ nhàng, trong trẻo phù hợp không khí thanh xuân, lưu giữ kỷ niệm đẹp. Trắng là tông cổ điển nhất cho kỷ yếu.",
+    "outfitPriority": ["ao-dai", "ao-tu-than", "ao-tac"],
+    "outfitNotes": "Áo dài trắng là lựa chọn kinh điển. Có thể phối cùng cặp/nhóm với các tông pastel hoặc chọn cổ phục Việt (Áo tấc, Nhật bình).",
+    "compatibleStyles": ["co-dien", "nu-tinh", "pastel", "hien-dai-nhe", "vintage-ha-noi"],
+    "taboos": ["màu-quá-chói", "họa-tiết-quá-lớn", "phụ-kiện-quá-rườm-rà", "áo-quá-dài-quá-vạt"],
+    "tips": [
+      "Áo dài trắng là an toàn nhất, hợp với mọi concept",
+      "Hoa cài tóc nhỏ, hoa tai ngọc trai nhỏ - giữ sự tinh khôi",
+      "Mang thêm 1 bó hoa nhỏ (hoa cúc họa mi, hoa baby)",
+      "Chuẩn bị nhiều concept để có ảnh đa dạng"
+    ],
+    "realExamples": [
+      "Áo dài trắng kỷ yếu cổ điển",
+      "Áo dài pastel theo nhóm (mỗi người 1 màu)",
+      "Áo dài cách tân nhẹ cho Gen Z",
+      "Áo tứ thân trắng + yếm cho concept Kinh Bắc"
+    ],
+    "duration": "3-6 giờ (nhiều concept)",
+    "locations": ["Trường học", "Phố cổ Hà Nội", "Bưu điện TP.HCM", "Vườn hoa", "Quán cafe vintage"]
+  },
+  {
+    "id": "di-hoc",
+    "name": "Đi học hằng ngày",
+    "description": "Mặc đi học hằng ngày (cấp 3, đại học) - cần thoải mái, thuận tiện nhưng vẫn duyên dáng",
+    "emoji": "📚",
+    "weather": ["nắng", "mưa"],
+    "formality": "thoải-mái",
+    "season": "quanh-năm",
+    "vibe": "năng-động,trẻ-trung,nhẹ-nhàng",
+    "context": "Đi học hằng ngày ở cấp 3 hoặc đại học. Cần di chuyển nhiều, ngồi lâu, trang phục cần thoải mái nhưng vẫn duyên dáng. Gen Z chấp nhận áo dài + sneakers trắng.",
+    "requirements": [
+      "Áo dài cổ thuyền, tay ngắn hoặc áo dài cách tân",
+      "Chất liệu linen, cotton thoáng mát",
+      "Giày thể thao trắng low-top (đã được cộng đồng Gen Z chấp nhận)",
+      "Balo nhỏ thay túi xách",
+      "Tránh màu quá chói hoặc quá đắt tiền"
+    ],
+    "layout": "Cần di chuyển nhiều - áo dài cách tân rất phù hợp. Giày thể thao là cần thiết.",
+    "recommendedColors": ["trắng", "xanh-nhạt", "kem", "xanh-denim", "hồng-phấn", "xanh-navy"],
+    "colorReasoning": "Tông sáng, dễ phối, phù hợp môi trường học đường. Tránh màu quá rực rỡ gây phản cảm.",
+    "outfitPriority": ["ao-dai", "ao-ba-ba"],
+    "outfitNotes": "Áo dài cổ thuyền, tay ngắn hoặc áo dài cách tân rất phù hợp. Chất liệu linen, cotton thoáng mát.",
+    "compatibleStyles": ["minimalist", "street-style", "thanh-lich-ha-noi-2026"],
+    "taboos": ["áo-quá-dài-quá-vạt", "giày-cao-gót-quá-cao", "phụ-kiện-quá-đắt-tiền", "trang-sức-rườm-rà"],
+    "tips": [
+      "Có thể phối áo dài với giày thể thao trắng (low-top)",
+      "Balo nhỏ thay túi xách",
+      "Mang theo áo khoác denim/blazer mỏng (phòng máy lạnh)",
+      "Tóc buộc gọn (tóc đuôi ngựa, búi cao)"
+    ],
+    "realExamples": [
+      "Áo dài cổ thuyền trắng đi học",
+      "Áo dài + sneakers trắng + balo (Gen Z style)",
+      "Áo bà ba đi học vùng nông thôn",
+      "Áo dài pastel (xanh nhạt, hồng phấn) cho nữ sinh"
+    ],
+    "duration": "6-8 giờ/ngày",
+    "locations": ["Trường học", "Giảng đường", "Thư viện", "Căng tin"]
+  },
+  {
+    "id": "di-uong-cafe",
+    "name": "Đi uống cafe / Hẹn hò",
+    "description": "Đi cafe cùng bạn bè, hẹn hò nhẹ nhàng - cần tinh tế, dễ thương, có chút cá tính Gen Z",
+    "emoji": "☕",
+    "weather": ["mát", "nắng-nhẹ"],
+    "formality": "thoải-mái-nhưng-tinh-tế",
+    "season": "quanh-năm",
+    "vibe": "dễ-thương,retro,nhẹ-nhàng,cá-tính",
+    "context": "Đi cafe là hoạt động thường ngày của Gen Z tại quán vintage Hà Nội, rooftop Sài Gòn hoặc specialty coffee. Trang phục cần thoải mái nhưng đủ 'lên ảnh'.",
+    "requirements": [
+      "Vibe thoải mái, dễ thương, có chút cá tính Gen Z",
+      "Áo dài cách tân + sneakers trắng = combo Gen Z iconic",
+      "Hoặc áo bà ba + quần ống rộng cho vibe vintage",
+      "Túi cói nhỏ xinh",
+      "Vòng tay bạc nhiều lớp"
+    ],
+    "layout": "Ngồi cafe 1-3 giờ, chụp ảnh check-in, nói chuyện.",
+    "recommendedColors": ["kem", "nâu-cà-phê", "hồng-phấn", "xanh-bạc-hà", "vàng-nhạt", "trắng"],
+    "colorReasoning": "Tông ấm, vintage hoặc pastel phù hợp không gian cafe, dễ lên ảnh và tạo vibe thư giãn.",
+    "outfitPriority": ["ao-dai", "ao-ba-ba", "ao-tu-than"],
+    "outfitNotes": "Áo dài kết hợp giày thể thao hoặc guốc mộc, hoặc áo bà ba với quần ống rộng cho vibe vintage.",
+    "compatibleStyles": ["y2k", "soft-girl", "bohemian", "vintage-ha-noi", "vintage-viet-nam-60s"],
+    "taboos": ["áo-quá-truyền-thống-cứng-nhắc", "phụ-kiện-quá-đắt-tiền", "áo-nhat-binh-qua-trang-trong"],
+    "tips": [
+      "Tóc búi cao + hoa cài tóc nhỏ cho vibe retro",
+      "Túi cói nhỏ xinh",
+      "Đeo vòng tay bạc nhiều lớp (boho)",
+      "Áo bà ba + quần ống rộng = combo 'vintage Sài Gòn' cổ điển"
+    ],
+    "realExamples": [
+      "Áo dài hoa nhí + sneakers trắng",
+      "Áo bà ba cafe (áo trắng + quần đen ống rộng + khăn rằn)",
+      "Áo dài cách tân + túi cói",
+      "Áo tứ thân + yếm + khăn lụa (concept Hà Nội xưa)"
+    ],
+    "duration": "1-3 giờ",
+    "locations": ["The Coffee House", "Highlands Coffee", "Quán vintage Hà Nội", "Rooftop Sài Gòn", "Cà phê đá vỉa hè"]
+  },
+  {
+    "id": "festival-ngoai-troi",
+    "name": "Festival / Lễ hội ngoài trời",
+    "description": "Lễ hội âm nhạc, festival đường phố, sự kiện ngoài trời - cần nổi bật, thoải mái, phù hợp di chuyển nhiều",
+    "emoji": "🎪",
+    "weather": ["nắng", "ấm"],
+    "formality": "thoải-mái-năng-động",
+    "season": "mùa-hè",
+    "vibe": "nổi-bật,vui-tươi,năng-động",
+    "context": "Festival âm nhạc (Monsoon, Hò Dô, Yên Show...), lễ hội đường phố (Lễ hội Áo dài, đêm phố cổ...), sự kiện ngoài trời.",
+    "requirements": [
+      "Màu sắc rực rỡ, nổi bật giữa đám đông",
+      "Trang phục thoải mái, dễ di chuyển",
+      "Giày thể thao là bắt buộc",
+      "Nón lá, khăn rằn có thể vừa là phụ kiện vừa che nắng",
+      "Chất liệu thoáng mát: cotton, linen"
+    ],
+    "layout": "Di chuyển nhiều, đứng lâu, nhảy nhót theo nhạc. Cần trang phục gọn nhẹ, giày thể thao bắt buộc.",
+    "recommendedColors": ["vàng", "cam", "hồng-nóng", "xanh-lá", "cam-đất", "đỏ", "tím"],
+    "colorReasoning": "Màu sắc rực rỡ, nổi bật giữa đám đông, dễ nhận diện trong ảnh và video.",
+    "outfitPriority": ["ao-ba-ba", "trang-phuc-hmong", "trang-phuc-gia-rai", "ao-dai"],
+    "outfitNotes": "Áo bà ba hoặc trang phục dân tộc thiểu số (H'Mông, Dao, Gia Rai) rất nổi bật và dễ di chuyển.",
+    "compatibleStyles": ["y2k", "street-style", "bohemian", "indie-kid"],
+    "taboos": ["áo-vạt-dài-quá", "giày-cao-gót", "phụ-kiện-rườm-rà", "áo-nhat-binh"],
+    "tips": [
+      "Giày thể thao là bắt buộc - nhảy nhót cả ngày",
+      "Nón lá có thể vừa là phụ kiện vừa che nắng",
+      "Khăn rằn buộc ngang hông hoặc đeo túi chéo"
+    ],
+    "realExamples": [
+      "Áo dài cách tân ngắn cho festival (kết hợp giày thể thao)",
+      "Áo bà ba + nón lá đi lễ hội đường phố",
+      "Trang phục H'Mông đi festival (rực rỡ, nổi bật)"
+    ],
+    "duration": "4-8 giờ",
+    "locations": ["Monsoon Festival", "Lễ hội Áo dài TP.HCM", "Hà Nội Festival", "Festival Huế"]
+  },
+  {
+    "id": "tet-trung-thu",
+    "name": "Tết Trung Thu / Rằm tháng 8",
+    "description": "Tết Trung Thu - đêm hội trăng rằm, đèn lồng, bánh nướng - không khí ấm áp gia đình",
+    "emoji": "🌕",
+    "weather": ["mát", "ấm-đêm"],
+    "formality": "vừa-phải",
+    "season": "mùa-thu",
+    "vibe": "ấm-áp,truyền-thống,lung-linh",
+    "context": "Tết Trung Thu (Rằm tháng 8 âm lịch) - Đường phố rước đèn ông sao, đèn cá chép, phá cỗ trông trăng, múa lân.",
+    "requirements": [
+      "Màu ấm, sáng như đèn lồng (vàng, đỏ, cam, hồng)",
+      "Vàng ánh kim rất được yêu thích",
+      "Có thể cầm đèn lồng nhỏ hoặc quạt giấy làm phụ kiện"
+    ],
+    "layout": "Vui chơi ngoài trời buổi tối, rước đèn, phá cỗ. Cần thoải mái nhưng rực rỡ.",
+    "recommendedColors": ["vàng", "đỏ", "cam", "hồng-phấn", "xanh-lan", "trắng"],
+    "colorReasoning": "Màu ấm, sáng như đèn lồng, hợp với không khí đêm rằm.",
+    "outfitPriority": ["ao-dai", "ao-tu-than", "ao-ba-ba", "yem"],
+    "outfitNotes": "Áo dài vàng ánh kim, đỏ cam, hồng phấn hoặc áo tứ thân + yếm dạo phố đèn lồng.",
+    "compatibleStyles": ["co-dien", "vintage-ha-noi", "soft-girl"],
+    "taboos": ["màu-đen", "quần-jean", "trang-phục-quá-trang-trọng"],
+    "tips": [
+      "Mang đèn lồng nhỏ hoặc quạt cổ làm phụ kiện",
+      "Hoa tai vàng, trâm cài tóc có họa tiết trăng/sao",
+      "Có thể cài hoa tươi vào tóc"
+    ],
+    "realExamples": [
+      "Áo dài hồng cam dạo phố Hàng Mã",
+      "Áo tứ thân ấm áp (màu nâu, đỏ)",
+      "Áo bà ba + nón quai thao"
+    ],
+    "duration": "3-5 giờ (buổi tối)",
+    "locations": ["Phố cổ Hà Nội", "Phố lồng đèn Lương Nhữ Học (TP.HCM)", "Hội An", "Công viên"]
+  },
+  {
+    "id": "le-hoi-am-thuc",
+    "name": "Lễ hội ẩm thực / Hội chợ",
+    "description": "Lễ hội ẩm thực, hội chợ Tết, phiên chợ quê - cần thoải mái, gọn nhẹ nhưng có concept vùng miền",
+    "emoji": "🍜",
+    "weather": ["ấm", "nắng"],
+    "formality": "thoải-mái",
+    "season": "quanh-năm",
+    "vibe": "ấm-áp,đông-đúc,vui-vẻ",
+    "context": "Lễ hội ẩm thực (Lễ hội Bánh dân gian, Hội chợ Tết, Festival Ẩm thực...) và các phiên chợ quê.",
+    "requirements": [
+      "Trang phục thoải mái, gọn nhẹ",
+      "Giày bệt hoặc thể thao",
+      "Túi nhỏ đeo chéo",
+      "Chất liệu dễ giặt"
+    ],
+    "layout": "Đi bộ nhiều, thưởng thức ẩm thực các vùng miền.",
+    "recommendedColors": ["đỏ", "vàng", "kem", "hồng-phấn", "xanh-truyền-thống"],
+    "colorReasoning": "Màu sắc vui tươi, đậm chất vùng miền.",
+    "outfitPriority": ["ao-tu-than", "ao-ba-ba", "trang-phuc-thai", "bo-quan-hoa-dao"],
+    "outfitNotes": "Có thể mặc áo tứ thân + yếm cho concept Bắc Bộ, áo bà ba + nón quai thao cho concept Nam Bộ.",
+    "compatibleStyles": ["co-dien", "vintage-viet-nam-60s", "bohemian", "street-style"],
+    "taboos": ["áo-vạt-dài-quá", "giày-cao-gót", "vải-trắng-dễ-bẩn"],
+    "tips": [
+      "Mang theo túi nhỏ đeo chéo",
+      "Giày bệt là phù hợp nhất",
+      "Có thể chọn trang phục dân tộc (H'Mông, Dao, Thái) rất nổi bật"
+    ],
+    "realExamples": [
+      "Áo tứ thân + yếm + guốc mộc cho phiên chợ quê",
+      "Áo bà ba + nón quai thao cho chợ nổi",
+      "Trang phục Thái cho festival Tây Bắc"
+    ],
+    "duration": "3-5 giờ",
+    "locations": ["Hội chợ Tết TP.HCM", "Lễ hội Bánh dân gian", "Chợ nổi Cái Răng", "Festival Ẩm thực"]
+  },
+  {
+    "id": "ky-niem-ngay-le",
+    "name": "Kỷ niệm ngày lễ (8/3, 20/10, 20/11)",
+    "description": "Kỷ niệm các ngày lễ lớn: 8/3 (Quốc tế Phụ nữ), 20/10 (Phụ nữ Việt Nam), 20/11 (Nhà giáo VN)",
+    "emoji": "💐",
+    "weather": ["ấm", "mát"],
+    "formality": "vừa-phải-đến-trang-trọng",
+    "season": "quanh-năm",
+    "vibe": "ấm-áp,tôn-vinh,nữ-tính",
+    "context": "Các ngày lễ tôn vinh phụ nữ, nhà giáo, hoặc các dịp kỷ niệm tại trường học, công ty, hội trường.",
+    "requirements": [
+      "Trang phục đẹp, nữ tính, tinh tế",
+      "Màu sắc tươi sáng, rực rỡ",
+      "Áo dài là lựa chọn truyền thống cho dịp này",
+      "Hoa tươi cầm tay hoặc hoa cài áo",
+      "Trang sức nhẹ nhàng (ngọc trai, vàng ta)"
+    ],
+    "layout": "Buổi lễ tôn vinh, chụp ảnh kỷ niệm, giao lưu.",
+    "recommendedColors": ["đỏ", "hồng-phấn", "vàng-nhạt", "tím-lavender", "kem"],
+    "colorReasoning": "Màu sắc nữ tính, tươi sáng phù hợp với không khí tôn vinh.",
+    "outfitPriority": ["ao-dai", "ao-tu-than", "ao-tac"],
+    "outfitNotes": "Áo dài hồng phấn, đỏ, hoặc tím lavender cho 8/3, 20/10. Áo dài trắng cho 20/11.",
+    "compatibleStyles": ["co-dien", "vintage-sai-gon", "thanh-lich-van-phong", "thanh-lich-ha-noi-2026"],
+    "taboos": ["quần-jean", "trang-phục-quá-casual", "trang-sức-quá-phô-trương"],
+    "tips": [
+      "Áo dài là lựa chọn truyền thống, rất phù hợp",
+      "Hoa tươi cầm tay là phụ kiện ý nghĩa",
+      "Tóc búi nhẹ hoặc buông xoã"
+    ],
+    "realExamples": [
+      "Áo dài hồng phấn cho 8/3",
+      "Áo dài tím lavender cho 20/10",
+      "Áo dài trắng cho 20/11"
+    ],
+    "duration": "2-4 giờ",
+    "locations": ["Văn phòng công ty", "Trường học", "Nhà hàng", "Hội trường"]
+  }
+]

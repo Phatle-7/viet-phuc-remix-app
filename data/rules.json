@@ -1,0 +1,571 @@
+{
+  "metadata": {
+    "version": "3.0",
+    "compiledDate": "2026-10-08",
+    "source": "Wikipedia tiếng Việt + Bảo tàng Phụ nữ Việt Nam + Sách 'Lịch sử Áo dài Việt Nam' + Sách 'Áo tứ thân - vẻ đẹp chuẩn mực người con gái Kinh Bắc' + Nghiên cứu chuyên sâu về Việt phục 2026",
+    "totalRules": 247,
+    "totalCostumes": 24
+  },
+  "perCostume": {
+    "ao-dai": {
+      "name": "Áo dài - Quốc phục Việt Nam hiện đại",
+      "bestColors": ["đỏ", "trắng", "vàng", "hồng-phấn", "xanh-cobalt", "tím-lavender", "xanh-ngọc"],
+      "bestColorsHex": ["#C8102E", "#FAF6F0", "#D4AF37", "#FFB6C1", "#0047AB", "#B57ED8", "#50C878"],
+      "avoidColors": ["đen-toàn-thân", "xám-u-tịch-quá-mức", "cam-chóe-chói"],
+      "bestAccessories": ["hoa-tai-ngoc", "vong-tay-bac", "tram-cai-toc", "hoa-cai-toc", "khan-lua", "tui-coi", "giay-the-thao-trang", "hoa-tay", "non-la", "non-bai-tho", "day-chuyen-ngoc", "no-cai-toc"],
+      "avoidAccessories": ["khan-ran", "non-quai-thao", "khan-pieu", "that-lung-tho-cam"],
+      "bestEvents": ["le-tet", "di-den-chua", "dam-cuoi", "ky-yeu", "di-uong-cafe", "di-hoc", "festival-ngoai-troi", "ky-niem-ngay-le", "tet-trung-thu"],
+      "avoidEvents": ["dam-tang", "di-bien"],
+      "bestStyles": ["co-dien", "y2k", "vintage-sai-gon", "street-style", "soft-girl", "minimalist", "vintage-viet-nam-60s", "thanh-lich-ha-noi-2026", "tre-vang-hien-dai", "cach-tan-hien-dai", "thanh-lich-van-phong"],
+      "lengthRules": {
+        "to_goi_chua": "vạt phải dài QUÁ đầu gối (qua giữa bắp chân)",
+        "to_tiec_cuoi": "vạt qua đầu gối ~20cm",
+        "to_di_hoc": "vạt qua đầu gối ~10cm hoặc áo dài cách tân",
+        "to_café_festival": "áo dài cách tân thoải mái"
+      },
+      "outfitRules": [
+        "Áo dài mặc với quần dài cùng tông hoặc tương phản (phổ biến nhất: quần trắng)",
+        "Không xuyên thấu khi đi chùa, lễ trang nghiêm",
+        "Vạt áo dài cổ điển KHÔNG ngắn quá đầu gối",
+        "Cổ cao, tay dài = trang trọng; cổ thuyền, tay lỡ = cách tân",
+        "Có thể mặc với sneaker trắng low-top (Gen Z) - KHÔNG cao cổ"
+      ]
+    },
+    "ao-dai-mini": {
+      "name": "Áo dài mini - Áo dài cách tân ngắn cho Gen Z",
+      "bestColors": ["trắng", "hồng-phấn", "xanh-bạc-hà", "tím-lavender", "vàng-nhạt", "kem"],
+      "bestColorsHex": ["#FAF6F0", "#FFB6C1", "#98FF98", "#B57ED8", "#FFFACD", "#FFF8DC"],
+      "avoidColors": ["đen-toàn-thân"],
+      "bestAccessories": ["tui-coi", "hoa-cai-toc", "giay-the-thao-trang", "vong-tay-bac", "khan-lua", "no-cai-toc"],
+      "avoidAccessories": ["day-chuyen-ngoc", "mu-canh-chuon"],
+      "bestEvents": ["ky-yeu", "di-uong-cafe", "di-hoc", "festival-ngoai-troi", "tet-trung-thu"],
+      "avoidEvents": ["dam-tang", "di-den-chua", "dam-cuoi"],
+      "bestStyles": ["y2k", "soft-girl", "street-style", "vintage-ha-noi", "cach-tan-hien-dai", "thanh-lich-ha-noi-2026", "tre-vang-hien-dai"],
+      "outfitRules": [
+        "Áo dài mini KHÔNG mặc đi chùa lớn vì thiếu trang trọng",
+        "Phù hợp với sneakers trắng low-top hoặc giày búp bê"
+      ]
+    },
+    "ao-tu-than": {
+      "name": "Áo tứ thân - Trang phục truyền thống Bắc Bộ",
+      "bestColors": ["nâu-trầm", "nâu-đất", "trắng-ngà", "kem", "xanh-rêu"],
+      "bestColorsHex": ["#8B4513", "#A0522D", "#FAF6F0", "#FFF8DC", "#5F7A61"],
+      "avoidColors": ["đỏ-chói", "hồng-nóng", "cam-chói", "neon"],
+      "bestAccessories": ["guoc-moc", "khan-lua", "tram-cai-toc", "vong-tay-bac", "non-la", "non-quai-thao", "khan-mo-qua", "xa-tich", "dep-cong", "day-chuyen-bac"],
+      "avoidAccessories": ["giay-the-thao-trang", "hoa-tai-vang", "khan-ran"],
+      "bestEvents": ["di-den-chua", "ky-yeu", "le-tet", "di-uong-cafe", "tet-trung-thu", "le-hoi-am-thuc"],
+      "avoidEvents": ["festival-ngoai-troi", "di-hoc"],
+      "bestStyles": ["co-dien", "vintage-ha-noi", "vintage-viet-nam-60s", "dark-academia", "hoai-niem-hue"],
+      "outfitRules": [
+        "Mặc cùng yếm bên trong + váy đụp hoặc quần lụa (combo Kinh Bắc kinh điển)",
+        "4 vạt tượng trưng tứ thân phụ mẫu",
+        "Phụ kiện NÊN giản dị: khăn mỏ quạ, trâm cài tóc bạc, vòng tay bạc, guốc mộc",
+        "Không phối cùng khăn rằn Nam Bộ để tránh lẫn vùng miền"
+      ]
+    },
+    "ao-tac": {
+      "name": "Áo tấc - Áo ngũ thân tay thụng, lễ phục thời Nguyễn",
+      "bestColors": ["đỏ-đô", "vàng-đồng", "tím-trầm", "nâu-trầm", "đen-vải-gấm"],
+      "bestColorsHex": ["#C8102E", "#D4AF37", "#B57ED8", "#8B4513", "#0A0A0A"],
+      "avoidColors": ["hồng-phấn", "xanh-bạc-hà", "vàng-chanh"],
+      "bestAccessories": ["tram-cai-toc", "hoa-tai-ngoc", "man", "dong-ho-co", "guoc-moc", "quat-co-hue", "vong-ngoc", "khan-dong"],
+      "avoidAccessories": ["giay-the-thao-trang", "tui-coi", "no-cai-toc", "khan-ran"],
+      "bestEvents": ["le-tet", "dam-cuoi", "di-den-chua", "ky-yeu", "ky-niem-ngay-le"],
+      "avoidEvents": ["di-uong-cafe", "festival-ngoai-troi", "di-hoc"],
+      "bestStyles": ["co-dien", "vintage-sai-gon", "co-trang-hue-modern", "hoai-niem-hue", "dark-academia"],
+      "outfitRules": [
+        "Cổ đứng, tay thụng rộng, 5 khuy cài bên phải (tả nhẫm/hữu nhẫm đúng chuẩn hữu nhẫm chữ Y)",
+        "Mặc cùng quần dài trắng hoặc đen, đội mấn hoặc khăn đóng",
+        "Dành cho các dịp đại lễ, tế tự, cưới hỏi, kỷ yếu cổ phục"
+      ]
+    },
+    "ao-ngu-than-tay-chen": {
+      "name": "Áo ngũ thân tay chẽn - Tiền thân của Áo Dài hiện đại",
+      "bestColors": ["nâu-trầm", "vàng-đất", "đỏ-đô", "xanh-rêu", "kem"],
+      "bestColorsHex": ["#8B4513", "#D4AF37", "#C8102E", "#50C878", "#FFF8DC"],
+      "avoidColors": ["neon", "cam-chói"],
+      "bestAccessories": ["man", "tram-cai-toc", "hoa-tai-ngoc", "guoc-moc", "non-bai-tho", "quat-co-hue", "vong-ngoc"],
+      "avoidAccessories": ["giay-the-thao-trang", "tui-tho-cam", "khan-ran"],
+      "bestEvents": ["ky-yeu", "di-den-chua", "le-tet", "dam-cuoi", "di-uong-cafe"],
+      "avoidEvents": ["festival-ngoai-troi"],
+      "bestStyles": ["co-dien", "vintage-viet-nam-60s", "co-trang-hue-modern", "hoai-niem-hue", "vintage-ha-noi"],
+      "outfitRules": [
+        "5 thân vải tượng trưng Nhân - Nghĩa - Lễ - Trí - Tín, 5 khuy cài bên phải",
+        "Tay chẽn (tay hẹp gọn gàng) dễ sinh hoạt hơn áo tấc tay thụng",
+        "Vạt áo suông tự nhiên, không chít eo bó sát như áo dài hiện đại",
+        "Phối cùng quần lụa trắng, guốc mộc và mấn đội đầu"
+      ]
+    },
+    "ao-giao-linh": {
+      "name": "Áo giao lĩnh - Lễ phục cổ đại, cổ chéo thời Lý-Trần-Lê",
+      "bestColors": ["vàng-gấm", "đỏ-đô", "nâu-trầm", "tím-trầm", "xanh-rêu"],
+      "bestColorsHex": ["#D4AF37", "#C8102E", "#8B4513", "#B57ED8", "#50C878"],
+      "avoidColors": ["neon", "hồng-phấn", "xanh-da-trời"],
+      "bestAccessories": ["tram-cai-toc", "man", "hoa-tai-ngoc", "quat-co-hue"],
+      "avoidAccessories": ["giay-the-thao-trang", "no-cai-toc", "khan-lua", "khan-ran"],
+      "bestEvents": ["ky-yeu", "di-den-chua", "le-tet"],
+      "avoidEvents": ["di-hoc", "di-uong-cafe", "festival-ngoai-troi"],
+      "bestStyles": ["co-trang-hue-modern", "vintage-viet-nam-60s", "co-dien"],
+      "outfitRules": [
+        "Cổ giao lĩnh (vạt trái vắt sang phải - hữu nhẫm)",
+        "Mặc cùng yếm bên trong và thường (váy quây) bên dưới",
+        "Vạt dài rộng tôn nghiêm, tay áo thụng"
+      ]
+    },
+    "ao-nhat-binh": {
+      "name": "Áo nhật bình - Cung trang triều Nguyễn",
+      "bestColors": ["đỏ-đô", "vàng-đồng", "tím-trầm", "xanh-ngọc-trầm", "trắng-ngà"],
+      "bestColorsHex": ["#C8102E", "#D4AF37", "#B57ED8", "#50C878", "#FAF6F0"],
+      "avoidColors": ["đen", "xám", "nâu"],
+      "bestAccessories": ["tram-cai-toc", "man", "day-chuyen-ngoc", "hoa-tay", "hoa-tai-ngoc", "hoa-tai-vang", "quat-co-hue", "vong-ngoc"],
+      "avoidAccessories": ["giay-the-thao-trang", "tui-coi", "no-cai-toc", "vong-tay-bac", "khan-ran", "non-la"],
+      "bestEvents": ["ky-yeu", "dam-cuoi", "le-tet", "di-den-chua"],
+      "avoidEvents": ["di-hoc", "di-uong-cafe", "festival-ngoai-troi", "le-hoi-am-thuc"],
+      "bestStyles": ["co-trang-hue-modern", "hoai-niem-hue", "co-dien"],
+      "outfitRules": [
+        "Cổ áo hình chữ nhật (Nhật Bình) khi cài dây trước ngực, hoa văn loan phượng cung đình",
+        "Mặc cùng quần lụa trắng hoặc váy đụp, đội mấn hoặc khăn vành kết hợp trâm ngọc",
+        "Chỉ dành cho dịp trang trọng (lễ Tết, cưới hỏi, kỷ yếu cổ trang) - không mặc đi học, đi chợ"
+      ]
+    },
+    "ao-gam": {
+      "name": "Áo gấm - Lễ phục nam truyền thống",
+      "bestColors": ["đỏ-đô", "vàng-đồng", "đen-gấm", "xanh-navy"],
+      "bestColorsHex": ["#C8102E", "#D4AF37", "#0A0A0A", "#1B2B5E"],
+      "avoidColors": ["hồng-phấn", "xanh-da-trời", "kem"],
+      "bestAccessories": ["dong-ho-co", "khan-dong", "mu-canh-chuon", "quat-co-hue"],
+      "avoidAccessories": ["tui-coi", "hoa-cai-toc", "vong-tay-bac", "no-cai-toc", "non-la"],
+      "bestEvents": ["le-tet", "dam-cuoi", "ky-yeu"],
+      "avoidEvents": ["di-uong-cafe", "festival-ngoai-troi", "di-hoc"],
+      "bestStyles": ["co-dien", "vintage-sai-gon", "co-trang-hue-modern"],
+      "outfitRules": [
+        "Cổ đứng, 5 khuy, tay dài - lễ phục trang trọng cho nam giới",
+        "Vải gấm dày dệt họa tiết chữ Thọ, đồng tiền hoặc vân mây",
+        "Mặc cùng quần dài trắng/đen và khăn đóng"
+      ]
+    },
+    "ao-ba-ba": {
+      "name": "Áo bà ba - Trang phục truyền thống miền Tây Nam Bộ",
+      "bestColors": ["trắng", "kem", "xanh-da-trời", "vàng-nhạt", "hồng-phấn", "nâu"],
+      "bestColorsHex": ["#FAF6F0", "#FFF8DC", "#87CEEB", "#D4AF37", "#FFB6C1", "#8B4513"],
+      "avoidColors": ["đen"],
+      "bestAccessories": ["khan-ran", "non-quai-thao", "non-la", "guoc-moc", "that-lung-tho-cam", "vong-tay-bac", "tui-coi", "giay-the-thao-trang"],
+      "avoidAccessories": ["man", "tram-cai-toc", "day-chuyen-ngoc", "mu-canh-chuon", "khan-dong"],
+      "bestEvents": ["di-uong-cafe", "festival-ngoai-troi", "tet-trung-thu", "di-hoc", "le-hoi-am-thuc"],
+      "avoidEvents": ["dam-cuoi", "di-den-chua"],
+      "bestStyles": ["co-dien", "vintage-ha-noi", "vintage-viet-nam-60s", "bohemian", "indie-kid", "street-style"],
+      "outfitRules": [
+        "Mặc cùng quần lụa ống rộng đen hoặc trắng",
+        "Khăn rằn vắt vai nghiêng + nón lá là combo miền Tây kinh điển",
+        "Mang guốc mộc, dép bệt hoặc giày thể thao trắng low-top cho Gen Z"
+      ]
+    },
+    "yem": {
+      "name": "Yếm - Áo trong truyền thống của phụ nữ Việt",
+      "bestColors": ["đỏ", "hồng-phấn", "vàng-đất", "xanh-ngọc", "trắng"],
+      "bestColorsHex": ["#C8102E", "#FFB6C1", "#D4AF37", "#50C878", "#FAF6F0"],
+      "avoidColors": ["đen", "xám"],
+      "bestAccessories": ["khan-lua", "tram-cai-toc", "vong-tay-bac", "khan-mo-qua", "day-chuyen-bac", "guoc-moc"],
+      "avoidAccessories": ["giay-the-thao-trang", "dong-ho-co", "khan-dong"],
+      "bestEvents": ["ky-yeu", "le-tet", "tet-trung-thu", "le-hoi-am-thuc"],
+      "avoidEvents": ["di-den-chua", "di-hoc"],
+      "bestStyles": ["co-dien", "vintage-ha-noi", "vintage-viet-nam-60s", "soft-girl"],
+      "outfitRules": [
+        "Yếm truyền thống mặc kèm áo tứ thân hoặc áo khoác voan mỏng bên ngoài",
+        "Tuyệt đối KHÔNG mặc riêng áo yếm hở lưng khi đi đền chùa tôn nghiêm",
+        "Phối cùng váy đụp đen và dây chuyền bạc hoặc kiềng bạc"
+      ]
+    },
+    "khan-ran": {
+      "name": "Khăn rằn - Biểu tượng Nam Bộ",
+      "bestColors": ["nâu-đen-kem-cổ-điển", "đen", "trắng"],
+      "bestColorsHex": ["#8B4513", "#0A0A0A", "#FAF6F0"],
+      "avoidColors": ["tím-lavender"],
+      "bestAccessories": ["non-quai-thao", "non-la", "tui-coi", "guoc-moc"],
+      "avoidAccessories": ["man", "tram-cai-toc", "day-chuyen-ngoc", "mu-canh-chuon"],
+      "bestEvents": ["festival-ngoai-troi", "di-uong-cafe", "le-hoi-am-thuc"],
+      "avoidEvents": ["ky-yeu", "le-tet", "dam-cuoi"],
+      "bestStyles": ["co-dien", "vintage-ha-noi", "bohemian"],
+      "outfitRules": [
+        "KHÔNG kết hợp với áo ngũ thân, nhật bình, tứ thân để tránh lẫn vùng miền",
+        "Kết hợp đẹp nhất cùng áo bà ba miền Tây Nam Bộ"
+      ]
+    },
+    "bo-quan-hoa-dao": {
+      "name": "Bộ quần hoa đào (Quan họ) - Di sản UNESCO Bắc Ninh",
+      "bestColors": ["hồng-phấn", "trắng", "đỏ", "nâu"],
+      "bestColorsHex": ["#FFB6C1", "#FAF6F0", "#C8102E", "#8B4513"],
+      "avoidColors": ["đen", "xám"],
+      "bestAccessories": ["non-quai-thao", "xa-tich", "dep-cong", "khan-mo-qua", "khan-lua"],
+      "avoidAccessories": ["giay-the-thao-trang", "tui-coi", "hoa-tai-vang", "khan-ran"],
+      "bestEvents": ["le-hoi-am-thuc", "ky-yeu", "di-den-chua", "le-tet"],
+      "avoidEvents": ["festival-ngoai-troi", "di-hoc"],
+      "bestStyles": ["co-dien", "vintage-viet-nam-60s", "hoai-niem-hue"],
+      "outfitRules": [
+        "Áo mớ ba mớ bảy + yếm đào + thắt lưng lụa + nón quai thao (ba tầm)",
+        "Đi dép mũi cong và đeo xà tích bạc ngang lưng",
+        "Không đi giày thể thao hoặc mang phụ kiện hiện đại phá vỡ tổng thể di sản"
+      ]
+    },
+    "non-la": {
+      "name": "Nón lá - Biểu tượng Việt Nam",
+      "bestColors": ["trắng", "kem", "vàng"],
+      "bestColorsHex": ["#FAF6F0", "#FFF8DC", "#D4AF37"],
+      "avoidColors": ["đen"],
+      "bestAccessories": ["non-la", "khan-lua", "tui-coi", "guoc-moc"],
+      "avoidAccessories": ["mu-canh-chuon", "khan-dong"],
+      "bestEvents": ["di-uong-cafe", "festival-ngoai-troi", "ky-yeu", "tet-trung-thu"],
+      "avoidEvents": ["dam-cuoi"],
+      "bestStyles": ["co-dien", "vintage-ha-noi", "bohemian", "thanh-lich-ha-noi-2026"],
+      "outfitRules": [
+        "Cầm nghiêng hoặc đội nhẹ - tôn nét duyên dáng cùng áo dài và áo bà ba",
+        "Khi vào trong chánh điện đền chùa phải bỏ nón ra"
+      ]
+    },
+    "non-quai-thao": {
+      "name": "Nón quai thao - Đặc trưng lễ hội truyền thống",
+      "bestColors": ["kem", "nâu", "đỏ"],
+      "bestColorsHex": ["#FFF8DC", "#8B4513", "#C8102E"],
+      "avoidColors": ["đen"],
+      "bestAccessories": ["non-quai-thao", "khan-mo-qua", "xa-tich", "dep-cong"],
+      "avoidAccessories": ["giay-the-thao-trang", "kinh-tron"],
+      "bestEvents": ["festival-ngoai-troi", "di-uong-cafe", "le-hoi-am-thuc", "tet-trung-thu", "ky-yeu"],
+      "avoidEvents": ["dam-cuoi", "di-hoc"],
+      "bestStyles": ["co-dien", "vintage-ha-noi", "vintage-viet-nam-60s"],
+      "outfitRules": [
+        "Hợp nhất với áo tứ thân và trang phục Quan họ Bắc Ninh",
+        "Không đội trong lớp học hay phòng họp kín"
+      ]
+    },
+    "mu-canh-chuon": {
+      "name": "Mũ cánh chuồn - Mũ truyền thống nam giới",
+      "bestColors": ["đen", "đỏ", "vàng", "xanh-navy"],
+      "bestColorsHex": ["#0A0A0A", "#C8102E", "#D4AF37", "#1B2B5E"],
+      "avoidColors": ["hồng-phấn"],
+      "bestAccessories": ["mu-canh-chuon", "quat-co-hue", "dong-ho-co"],
+      "avoidAccessories": ["non-la", "hoa-cai-toc", "tui-coi"],
+      "bestEvents": ["le-tet", "dam-cuoi", "ky-yeu"],
+      "avoidEvents": ["di-uong-cafe", "festival-ngoai-troi", "di-hoc"],
+      "bestStyles": ["co-dien", "vintage-viet-nam-60s", "co-trang-hue-modern"],
+      "outfitRules": [
+        "Hai cánh chuồn gắn ngang hai bên mũ ô sa",
+        "Chỉ phối cùng áo tấc, áo giao lĩnh hoặc áo gấm lễ phục nam"
+      ]
+    },
+    "trang-phuc-cham": {
+      "name": "Trang phục Chăm - Dân tộc Chăm, sarong Hindu-Phật giáo",
+      "bestColors": ["vàng-đồng", "đỏ", "tím-lavender", "xanh-ngọc", "trắng"],
+      "bestColorsHex": ["#D4AF37", "#C8102E", "#B57ED8", "#50C878", "#FAF6F0"],
+      "avoidColors": ["xám", "đen"],
+      "bestAccessories": ["khan-lua", "vong-tay-bac", "hoa-cai-toc", "hoa-tai-vang"],
+      "avoidAccessories": ["non-la", "khan-ran", "khan-mo-qua", "mu-canh-chuon"],
+      "bestEvents": ["le-tet", "le-hoi-am-thuc", "di-uong-cafe", "ky-yeu"],
+      "avoidEvents": ["di-hoc"],
+      "bestStyles": ["bohemian", "vintage-viet-nam-60s", "co-dien"],
+      "outfitRules": [
+        "Áo dài Chăm không xẻ tà kết hợp dải băng-đô thổ cẩm vắt chéo ngực (Tali)",
+        "Không trộn lẫn với phụ kiện Kinh Bắc hoặc Nam Bộ"
+      ]
+    },
+    "trang-phuc-dao": {
+      "name": "Trang phục Dao - Dân tộc Dao, khăn đỏ đặc trưng",
+      "bestColors": ["xanh-navy", "đỏ", "vàng", "đen"],
+      "bestColorsHex": ["#1B2B5E", "#C8102E", "#D4AF37", "#0A0A0A"],
+      "avoidColors": ["hồng-phấn", "xanh-da-trời", "kem"],
+      "bestAccessories": ["khan-pieu", "vong-tay-bac", "khuyen-tai-bac", "day-chuyen-bac", "tui-tho-cam"],
+      "avoidAccessories": ["khan-ran", "non-quai-thao", "giay-the-thao-trang"],
+      "bestEvents": ["le-tet", "ky-yeu", "di-uong-cafe", "le-hoi-am-thuc"],
+      "avoidEvents": ["di-hoc"],
+      "bestStyles": ["bohemian", "vintage-viet-nam-60s", "co-dien"],
+      "outfitRules": [
+        "Khăn đỏ và bông len đỏ là bản sắc của người Dao Đỏ - cần giữ nguyên bản",
+        "Phối cùng trang sức bạc truyền thống"
+      ]
+    },
+    "trang-phuc-khmer": {
+      "name": "Trang phục Khmer - Dân tộc Khmer, Phật giáo Theravada",
+      "bestColors": ["vàng-kim", "đỏ", "xanh-ngọc", "tím-lavender"],
+      "bestColorsHex": ["#D4AF37", "#C8102E", "#50C878", "#B57ED8"],
+      "avoidColors": ["đen", "xám"],
+      "bestAccessories": ["hoa-tai-vang", "vong-tay-bac", "hoa-cai-toc", "vong-ngoc"],
+      "avoidAccessories": ["khan-ran", "non-quai-thao", "khan-mo-qua"],
+      "bestEvents": ["le-tet", "dam-cuoi", "di-den-chua", "le-hoi-am-thuc"],
+      "avoidEvents": ["di-hoc", "festival-ngoai-troi"],
+      "bestStyles": ["co-dien", "bohemian", "vintage-viet-nam-60s"],
+      "outfitRules": [
+        "Áo tầm vông kết hợp Sbay (dải lụa choàng chéo vai) và Sampot (váy quấn)",
+        "Trang sức ánh kim vàng chạm trổ tinh xảo"
+      ]
+    },
+    "trang-phuc-muong": {
+      "name": "Trang phục Mường - Dân tộc Mường, Hòa Bình/Thanh Hóa",
+      "bestColors": ["xanh-navy", "trắng", "nâu", "đỏ"],
+      "bestColorsHex": ["#1B2B5E", "#FAF6F0", "#8B4513", "#C8102E"],
+      "avoidColors": ["tím-lavender"],
+      "bestAccessories": ["khan-pieu", "that-lung-tho-cam", "vong-tay-bac", "tui-tho-cam", "xa-tich"],
+      "avoidAccessories": ["khan-ran", "mu-canh-chuon"],
+      "bestEvents": ["le-tet", "ky-yeu", "di-uong-cafe", "le-hoi-am-thuc"],
+      "avoidEvents": ["di-hoc"],
+      "bestStyles": ["vintage-viet-nam-60s", "bohemian", "co-dien"],
+      "outfitRules": [
+        "Áo pắn (áo ngắn trắng), yếm, váy đen với cạp váy dệt hoa văn rồng/hươu tinh xảo",
+        "Đội khăn trắng trên đầu - nét thanh khiết của người Mường"
+      ]
+    },
+    "trang-phuc-thai": {
+      "name": "Trang phục Thái - Dân tộc Thái, Tây Bắc",
+      "bestColors": ["xanh-navy", "trắng", "đỏ", "vàng", "đen"],
+      "bestColorsHex": ["#1B2B5E", "#FAF6F0", "#C8102E", "#D4AF37", "#0A0A0A"],
+      "avoidColors": ["xám"],
+      "bestAccessories": ["khan-pieu", "vong-tay-bac", "hoa-cai-toc", "khuyen-tai-bac", "tui-tho-cam"],
+      "avoidAccessories": ["khan-ran", "non-quai-thao", "mu-canh-chuon"],
+      "bestEvents": ["le-tet", "ky-yeu", "di-uong-cafe", "le-hoi-am-thuc", "festival-ngoai-troi"],
+      "avoidEvents": ["di-hoc"],
+      "bestStyles": ["bohemian", "vintage-viet-nam-60s", "co-dien"],
+      "outfitRules": [
+        "Áo cóm đính hàng khuy bạc hình bướm (mắc cúp) + váy đen + khăn piêu",
+        "Không thay hàng khuy bạc truyền thống bằng khuy nhựa"
+      ]
+    },
+    "trang-phuc-tay": {
+      "name": "Trang phục Tày - Dân tộc Tày, Đông Bắc",
+      "bestColors": ["xanh-navy", "đen", "trắng", "nâu"],
+      "bestColorsHex": ["#1B2B5E", "#0A0A0A", "#FAF6F0", "#8B4513"],
+      "avoidColors": ["hồng-phấn", "đỏ"],
+      "bestAccessories": ["khan-pieu", "vong-tay-bac", "day-chuyen-bac", "tui-tho-cam"],
+      "avoidAccessories": ["hoa-tai-vang", "khan-ran", "giay-the-thao-trang"],
+      "bestEvents": ["le-tet", "ky-yeu", "le-hoi-am-thuc", "di-uong-cafe"],
+      "avoidEvents": ["di-hoc", "dam-cuoi"],
+      "bestStyles": ["co-dien", "vintage-viet-nam-60s", "minimalist"],
+      "outfitRules": [
+        "Áo chàm 5 thân mộc mạc kết hợp kiềng bạc cổ và xà tích bạc",
+        "Vẻ đẹp của trang phục Tày nằm ở sắc chàm nguyên bản, không lòe loẹt"
+      ]
+    },
+    "trang-phuc-e-de": {
+      "name": "Trang phục Ê Đê - Dân tộc Ê Đê, Tây Nguyên",
+      "bestColors": ["đen", "đỏ", "vàng", "trắng"],
+      "bestColorsHex": ["#0A0A0A", "#C8102E", "#D4AF37", "#FAF6F0"],
+      "avoidColors": ["kem", "xanh-da-trời", "hồng-phấn"],
+      "bestAccessories": ["vong-tay-bac", "that-lung-tho-cam", "tui-tho-cam", "khuyen-tai-bac"],
+      "avoidAccessories": ["non-la", "khan-ran", "man"],
+      "bestEvents": ["festival-ngoai-troi", "ky-yeu", "di-uong-cafe", "le-hoi-am-thuc"],
+      "avoidEvents": ["di-hoc"],
+      "bestStyles": ["bohemian", "vintage-viet-nam-60s", "co-dien"],
+      "outfitRules": [
+        "Nền chàm đen điểm xuyết các dải hoa văn thổ cẩm đỏ - vàng - trắng",
+        "Kết hợp vòng đồng, vòng bạc đặc trưng Tây Nguyên"
+      ]
+    },
+    "trang-phuc-hmong": {
+      "name": "Trang phục H'Mông - Dân tộc H'Mông, Tây Bắc",
+      "bestColors": ["xanh-navy", "đỏ", "vàng", "xanh-ngọc"],
+      "bestColorsHex": ["#1B2B5E", "#C8102E", "#D4AF37", "#50C878"],
+      "avoidColors": ["kem", "xám"],
+      "bestAccessories": ["vong-tay-bac", "tui-tho-cam", "that-lung-tho-cam", "khuyen-tai-bac", "day-chuyen-bac"],
+      "avoidAccessories": ["khan-ran", "non-la", "non-quai-thao", "man"],
+      "bestEvents": ["le-tet", "ky-yeu", "di-uong-cafe", "tet-trung-thu", "festival-ngoai-troi", "le-hoi-am-thuc"],
+      "avoidEvents": ["di-hoc", "dam-cuoi"],
+      "bestStyles": ["bohemian", "indie-kid", "vintage-viet-nam-60s", "co-dien"],
+      "outfitRules": [
+        "Váy xếp ly xòe rộng thêu tay hoặc vẽ sáp ong trên vải lanh",
+        "Trang sức bạc nhiều lớp tạo âm thanh leng keng theo mỗi bước chân"
+      ]
+    },
+    "trang-phuc-gia-rai": {
+      "name": "Trang phục Gia Rai - Dân tộc Gia Rai, Tây Nguyên",
+      "bestColors": ["đen", "đỏ", "vàng", "trắng"],
+      "bestColorsHex": ["#0A0A0A", "#C8102E", "#D4AF37", "#FAF6F0"],
+      "avoidColors": ["kem", "hồng-phấn", "xanh-da-trời"],
+      "bestAccessories": ["vong-tay-bac", "khuyen-tai-bac", "that-lung-tho-cam", "tui-tho-cam"],
+      "avoidAccessories": ["khan-ran", "non-quai-thao", "non-la", "man"],
+      "bestEvents": ["festival-ngoai-troi", "ky-yeu", "le-hoi-am-thuc"],
+      "avoidEvents": ["di-hoc", "dam-cuoi"],
+      "bestStyles": ["bohemian", "vintage-viet-nam-60s", "co-dien"],
+      "outfitRules": [
+        "Vải chàm đen dệt hoa văn thổ cẩm đỏ-trắng đối xứng ngang thân",
+        "Tôn trọng không gian văn hóa cồng chiêng Tây Nguyên"
+      ]
+    }
+  },
+  "forbidden": [
+    {
+      "id": "F01",
+      "rule": "Áo dài KHÔNG kết hợp với mũ phượng hoàng kiểu Hoàng gia Trung Hoa",
+      "severity": "high",
+      "reason": "Gây nhầm lẫn nghiêm trọng về bản sắc văn hóa quốc gia.",
+      "outfits": ["ao-dai", "ao-tu-than", "ao-tac", "ao-ngu-than-tay-chen", "ao-nhat-binh"],
+      "alternatives": ["mấn (khăn vành dây) Huế", "trâm cài tóc ngọc trai", "hoa cài tóc nhỏ"]
+    },
+    {
+      "id": "F10",
+      "rule": "Không phối khăn rằn Nam Bộ với cổ phục cung đình Huế hoặc áo tứ thân Bắc Bộ",
+      "severity": "low",
+      "reason": "Khăn rằn là đặc trưng văn hóa sông nước Nam Bộ, phối cùng cổ phục Huế/Bắc Bộ sẽ bị lệch vùng miền.",
+      "outfits": ["ao-ngu-than-tay-chen", "ao-nhat-binh", "ao-tu-than", "ao-tac", "bo-quan-hoa-dao"],
+      "accessories": ["khan-ran"],
+      "alternatives": ["mấn Huế", "khăn lụa trơn", "khăn mỏ quạ"]
+    },
+    {
+      "id": "F29",
+      "rule": "Không mặc trang phục đen toàn thân vào dịp Tết Nguyên Đán hoặc Đám cưới",
+      "severity": "high",
+      "reason": "Theo quan niệm truyền thống Việt Nam, dịp hỷ sự và đầu năm mới ưu tiên sắc đỏ, vàng, hồng tươi sáng cầu may mắn.",
+      "outfits": ["ao-dai", "ao-tu-than", "ao-tac", "ao-nhat-binh"],
+      "events": ["le-tet", "dam-cuoi"],
+      "colors": ["#0A0A0A"],
+      "alternatives": ["Đỏ son #C8102E", "Vàng kim #D4AF37", "Hồng phấn #FFB6C1"]
+    },
+    {
+      "id": "F31",
+      "rule": "Không mặc áo yếm riêng lẻ (không có áo ngoài) khi đi đền chùa",
+      "severity": "high",
+      "reason": "Đền chùa là không gian tâm linh tôn nghiêm, cần trang phục kín đáo che vai và lưng.",
+      "outfits": ["yem"],
+      "events": ["di-den-chua"],
+      "alternatives": ["Mặc áo tứ thân khoác ngoài yếm", "Chọn áo dài cổ cao hoặc áo tấc"]
+    }
+  ],
+  "recommended": [
+    {
+      "id": "R01",
+      "rule": "Áo dài + giày thể thao trắng low-top",
+      "severity": "positive",
+      "reason": "Combo Gen Z năng động, vừa giữ phom dáng truyền thống vừa thuận tiện di chuyển đi học, đi cafe.",
+      "bestWith": ["ao-dai"]
+    },
+    {
+      "id": "R02",
+      "rule": "Áo dài + túi cói nhỏ bo tròn",
+      "severity": "positive",
+      "reason": "Túi cói thủ công kết hợp áo dài tạo vẻ đẹp thanh lịch, hoài niệm.",
+      "bestWith": ["ao-dai", "ao-tu-than", "ao-ba-ba"]
+    },
+    {
+      "id": "R03",
+      "rule": "Áo bà ba + khăn rằn + nón lá",
+      "severity": "positive",
+      "reason": "Bộ ba biểu tượng văn hóa miền Tây Nam Bộ hài hòa và mộc mạc.",
+      "bestWith": ["ao-ba-ba"]
+    },
+    {
+      "id": "R10",
+      "rule": "Áo tứ thân + khăn mỏ quạ + guốc mộc",
+      "severity": "positive",
+      "reason": "Tổ hợp kinh điển chuẩn mực của người con gái Kinh Bắc.",
+      "bestWith": ["ao-tu-than"]
+    },
+    {
+      "id": "R20",
+      "rule": "Áo ngũ thân / Nhật bình + mấn Huế + quạt cổ",
+      "severity": "positive",
+      "reason": "Tôn vinh trọn vẹn khí chất nho nhã, đài các của cổ phục triều Nguyễn.",
+      "bestWith": ["ao-ngu-than-tay-chen", "ao-nhat-binh", "ao-tac"]
+    }
+  ],
+  "occasions": [
+    {
+      "id": "OC01",
+      "event": "di-den-chua",
+      "name": "Đi đền/chùa - Nơi tâm linh, tôn nghiêm",
+      "mustFollow": [
+        "Trang phục kín đáo, lịch sự, không hở vai/lưng",
+        "Ưu tiên gam màu trang nhã hoặc truyền thống",
+        "Đi giày bệt hoặc guốc mộc nhẹ nhàng"
+      ],
+      "bestOutfits": ["ao-dai", "ao-tu-than", "ao-tac", "ao-ngu-than-tay-chen"],
+      "worstOutfits": ["yem"]
+    },
+    {
+      "id": "OC02",
+      "event": "dam-cuoi",
+      "name": "Đám cưới / Lễ ăn hỏi",
+      "mustFollow": [
+        "Tránh mặc đen toàn thân",
+        "Ưu tiên chất liệu lụa, gấm sang trọng và màu sắc tươi sáng"
+      ],
+      "bestOutfits": ["ao-dai", "ao-nhat-binh", "ao-tac", "ao-gam"],
+      "worstOutfits": ["ao-ba-ba", "khan-ran"]
+    },
+    {
+      "id": "OC03",
+      "event": "le-tet",
+      "name": "Lễ Tết Nguyên Đán",
+      "mustFollow": [
+        "Ưu tiên màu sắc may mắn: đỏ, vàng, hồng, xanh ngọc",
+        "Tránh mặc đen tuyền toàn thân ngày mồng 1 Tết"
+      ],
+      "bestOutfits": ["ao-dai", "ao-gam", "ao-tac", "ao-nhat-binh", "ao-tu-than", "ao-ngu-than-tay-chen"],
+      "worstOutfits": []
+    }
+  ],
+  "general": [
+    {
+      "id": "G01",
+      "principle": "Tôn trọng giá trị nguyên bản",
+      "description": "Mỗi trang phục truyền thống có giá trị văn hóa, lịch sử riêng. Khi cách tân, giữ tinh thần gốc, không bóp méo."
+    },
+    {
+      "id": "G02",
+      "principle": "Phân biệt vùng miền",
+      "description": "Mỗi vùng miền có trang phục đặc trưng: Bắc (áo tứ thân, yếm, Quan họ), Trung (áo ngũ thân, nhật bình), Nam (áo bà ba, khăn rằn). Phối phụ kiện đồng điệu vùng miền."
+    },
+    {
+      "id": "G08",
+      "principle": "Quy tắc phối màu 60-30-10",
+      "description": "Màu chính (60%) + Màu phụ (30%) + Màu điểm nhấn (10%) giúp tổng thể hài hòa và tôn dáng."
+    }
+  ],
+  "colorMeanings": {
+    "red": {
+      "symbolism": "May mắn, hạnh phúc, tài lộc, nhiệt huyết",
+      "bestFor": ["Tết", "đám cưới", "lễ hội"],
+      "avoidFor": ["đám tang"]
+    },
+    "white": {
+      "symbolism": "Thuần khiết, thanh cao, tinh khôi",
+      "bestFor": ["đi chùa", "kỷ yếu", "đi học"],
+      "avoidFor": []
+    },
+    "yellow": {
+      "symbolism": "Hoàng gia, quý phái, phú quý, thịnh vượng",
+      "bestFor": ["Tết", "đám cưới", "lễ hội", "cung trang Huế"],
+      "note": "Vàng kim (#D4AF37) sang trọng và tôn da"
+    },
+    "black": {
+      "symbolism": "Nghiêm trang, huyền bí, mộc mạc (chàm đen)",
+      "bestFor": ["trang phục dân tộc", "quần lụa phối áo bà ba/áo dài"],
+      "avoidFor": ["Tết (toàn thân đen)", "đám cưới (toàn thân đen)"]
+    },
+    "pink": {
+      "symbolism": "Nữ tính, dịu dàng, lãng mạn, xuân thì",
+      "bestFor": ["kỷ yếu", "đi cafe", "lễ Tết", "Quan họ"],
+      "note": "Hồng phấn (#FFB6C1) rất hợp Gen Z"
+    },
+    "green": {
+      "symbolism": "Bình an, sinh sôi, ngọc quý",
+      "bestFor": ["đi chùa", "lễ hội", "cổ phục"],
+      "note": "Xanh ngọc (#50C878) mang vẻ đẹp cổ điển Á Đông"
+    },
+    "purple": {
+      "symbolism": "Thơ mộng, thủy chung, quý phái cố đô Huế",
+      "bestFor": ["Huế", "đi chùa", "áo nhật bình", "áo dài"],
+      "note": "Tím lavender (#B57ED8) trẻ trung hiện đại"
+    },
+    "blue": {
+      "symbolism": "Bình yên, thanh lịch, tri thức",
+      "bestFor": ["đi học", "kỷ yếu", "đi cafe"],
+      "note": "Xanh da trời (#87CEEB) và Xanh navy (#1B2B5E)"
+    },
+    "brown": {
+      "symbolism": "Đất mẹ, mộc mạc, giản dị Kinh Bắc",
+      "bestFor": ["đi đền chùa", "đi cafe vintage", "lễ hội truyền thống"],
+      "note": "Nâu (#8B4513) là sắc màu đặc trưng của áo tứ thân và áo ngũ thân xưa"
+    },
+    "cream": {
+      "symbolism": "Mềm mại, nhã nhặn, hoài cổ",
+      "bestFor": ["đi đền chùa", "kỷ yếu", "đi học", "đi cafe"],
+      "note": "Kem (#FFF8DC) cực kỳ dễ phối phụ kiện"
+    }
+  }
+}

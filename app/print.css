@@ -1,0 +1,28 @@
+/* ============================================================
+ * FILE: app/print.css
+ * ============================================================ */
+
+@media print {
+  /* Ẩn navbar, footer, button */
+  nav,
+  header,
+  footer,
+  button,
+  .no-print {
+    display: none !important;
+  }
+
+  /* Thẻ lookbook không bị cắt đôi khi sang trang */
+  .lookbook-card {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    border: 1px solid #E5DED0 !important;
+    box-shadow: none !important;
+  }
+
+  /* Nền trang trắng khi in PDF */
+  body {
+    background: white !important;
+    color: #1A1A1A !important;
+  }
+}

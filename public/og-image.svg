@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#C8102E" />
+      <stop offset="65%" stop-color="#9A0A1F" />
+      <stop offset="100%" stop-color="#2D3561" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgGrad)" />
+  <rect x="36" y="36" width="1128" height="558" rx="24" fill="none" stroke="#D4AF37" stroke-width="3" stroke-opacity="0.85" />
+  <rect x="52" y="52" width="1096" height="526" rx="16" fill="none" stroke="#FAF6F0" stroke-width="1" stroke-opacity="0.3" />
+  <text x="600" y="190" text-anchor="middle" fill="#D4AF37" font-family="sans-serif" font-size="22" font-weight="700" letter-spacing="6">
+    AI ARENA VIETNAM 2026
+  </text>
+  <text x="600" y="305" text-anchor="middle" fill="#FAF6F0" font-family="Georgia, serif" font-size="76" font-weight="700">
+    Việt Phục Remix Studio
+  </text>
+  <text x="600" y="385" text-anchor="middle" fill="#FFF8DC" font-family="Georgia, serif" font-size="40" font-weight="600">
+    Mặc nét Việt. Giữ chất riêng.
+  </text>
+  <text x="600" y="475" text-anchor="middle" fill="#FAF6F0" fill-opacity="0.9" font-family="sans-serif" font-size="24" font-weight="500">
+    23 Việt phục truyền thống · 10 Sự kiện · 17 Phong cách Gen Z · 247 Quy tắc văn hóa
+  </text>
+</svg>
